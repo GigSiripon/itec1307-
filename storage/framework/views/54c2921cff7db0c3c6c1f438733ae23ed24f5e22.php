@@ -1,0 +1,1 @@
+hello world<?php /**PATH D:\6114210008\Lab7\newproject\braintree\resources\views/shop.blade.php ENDPATH**/ ?>
